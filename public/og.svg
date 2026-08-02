@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#eef0e5"/>
+  <rect x="45" y="45" width="1110" height="540" rx="34" fill="#fffdf5" stroke="#bdc4b4" stroke-width="3"/>
+  <text x="95" y="132" fill="#b65e3f" font-family="ui-monospace, monospace" font-size="18" font-weight="800" letter-spacing="4">NATIONAL PARK ZONES</text>
+  <text x="95" y="215" fill="#18342d" font-family="Yu Gothic UI, sans-serif" font-size="50" font-weight="800">国立公園くらべ</text>
+  <text x="98" y="270" fill="#607068" font-family="Yu Gothic UI, sans-serif" font-size="24">35公園の陸域を、5つの地種区分で並べる。</text>
+  <g transform="translate(96 335)">
+    <rect width="422" height="46" rx="9" fill="#173e32"/>
+    <rect x="422" width="136" height="46" fill="#39694f"/>
+    <rect x="558" width="225" height="46" fill="#6e8b5a"/>
+    <rect x="783" width="240" height="46" fill="#a2ad72"/>
+    <rect x="1023" width="87" height="46" rx="0 9 9 0" fill="#d7cb9c"/>
+  </g>
+  <g fill="#18342d" font-family="Yu Gothic UI, sans-serif" font-size="16" font-weight="700">
+    <text x="96" y="414">特別保護</text><text x="518" y="414">第1種</text><text x="654" y="414">第2種</text><text x="879" y="414">第3種</text><text x="1078" y="414">普通</text>
+  </g>
+  <g transform="translate(700 80)">
+    <path d="M0 440C52 208 142 88 230 0c85 83 163 202 230 440Z" fill="#d7cb9c" stroke="#173e32" stroke-width="3"/>
+    <path d="M53 440c48-170 111-264 177-326 67 64 125 162 177 326Z" fill="#a2ad72" stroke="#173e32" stroke-width="3"/>
+    <path d="M116 440c32-111 72-176 114-215 44 42 82 108 116 215Z" fill="#6e8b5a" stroke="#173e32" stroke-width="3"/>
+    <path d="M175 440c17-57 36-91 55-110 21 21 40 56 58 110Z" fill="#173e32"/>
+  </g>
+  <text x="98" y="525" fill="#173e32" font-family="ui-monospace, monospace" font-size="20" font-weight="800">35 PARKS · 2,447,855 HA · 2026.04.10</text>
+</svg>

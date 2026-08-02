@@ -1,0 +1,10 @@
+{
+  "name": "国立公園くらべ",
+  "short_name": "国立公園くらべ",
+  "description": "日本の35国立公園の陸域面積と地種区分を比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#eef0e5",
+  "theme_color": "#173e32",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

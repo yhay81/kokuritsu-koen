@@ -1,0 +1,15 @@
+{
+  "asOf": "2026-04-10",
+  "count": 35,
+  "totalAreaHa": 2447855,
+  "specialProtectionHa": 366129,
+  "class1Ha": 331776,
+  "class2Ha": 549772,
+  "class3Ha": 585134,
+  "ordinaryHa": 615044,
+  "prefectureCount": 42,
+  "sourceSha256": {
+    "overviewPdf": "648195b060ac2545208e09239c30c9cf26ec37bd1ba47ad0f0d53c1a068197a4",
+    "zoningPdf": "7cfa24b4c1be30219aef2a375a20e54b499a21ebf9dffbd16ccae67095f0d9f2"
+  }
+}
